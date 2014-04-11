@@ -2,7 +2,7 @@
 
 This is a superpowered jQuery calculator.
 
-it has the following features:
+It has the following features:
 
 * Addition
 * Subtraction
